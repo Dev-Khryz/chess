@@ -1,4 +1,4 @@
 # chess
  chess using react
 
- ## Chess.com
+ ## chess(Chess.com)
